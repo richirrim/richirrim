@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api ?username=richirrim )](https://github.com/richirrim/github-readme-stats)
 <!--
 **richirrim/richirrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
