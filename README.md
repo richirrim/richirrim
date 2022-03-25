@@ -13,7 +13,6 @@ Actualmente, estoy en el programa de LaunchX by #Innovaccionvirtual #microsoft. 
 - [🔵Dev.to: @richirrim](https://dev.to/richirrim)
 
 
-![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=richirrim&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richirrim&layout=compact&theme=radical)
 
 
