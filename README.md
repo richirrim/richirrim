@@ -6,6 +6,9 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=pokedex-website&theme=radical)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=platilla-mikrotik-hotspot&theme=radical)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=vaccination-landing-page&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=clone-edcamp&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=pasteleria-double-l&theme=radical)
+
 <!--
 **richirrim/richirrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
