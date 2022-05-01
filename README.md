@@ -14,19 +14,19 @@ const Ricardo.profile = {
   ],
   framewokrs: [
     { name: 'Vuejs', timeUsing: '2 meses', status: 'Aprendiendo' }, 
-    { name: 'Express', timeUsing: '1 mes' status: 'Aprendiendo' }, 
-  ].
+    { name: 'Express', timeUsing: '1 mes', status: 'Aprendiendo' }, 
+  ],
   design: [
     { name: 'Photoshop', status: 'Pro', timeUsing: '1 año' }, 
     { name: 'Adobe XD', status: 'Aprendiendo', timeUsing: '6 meses' }, 
-  ].
-  hobbies: ['Hacer streams en Twitch', 'Crear contenido de programación', 'Dance', 'Diseñar'],
+  ],
+  hobbies: ['Hacer streams en Twitch', 'Crear contenido de programación', 'Dance', 'Diseñar', 'Videojuegos'],
   education: [
     { institute: 'Ingeniería Informática', academicDiscipline: 'Instituto tecnológico de Campeche', startDate: 'Ene. 2014', finishDate: 'Jul. 2019' }, 
     { institute: 'Carrera Técnica en Informática', academicDiscipline: 'Conalep Campeche', startDate: 'Ene. 2011', finishDate: 'Jul. 2013' }, 
-  ].
+  ],
   onlineEducationPlatforms: ['EDteam', 'Udemy', 'Bootcamp LaunchX', 'escuela.vue']
-};
+}
 ```
 
 Soy egresado de la carrera de Ing. Informática 🎉 . Durante la carrera despertó en mí una enorme curiosidad por el Desarrollo Web, en especial por el Desarrollo Frontend, y desde ese día nunca he parado, todos los días descubro algo nuevo y eso me fascina. Nunca me limite a un salón de clases para aprender cosas o a un maestro.
