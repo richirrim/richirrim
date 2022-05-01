@@ -6,19 +6,19 @@ import Ricardo from '../earth/Ricardo'
 
 const Ricardo.profile = {
   username: '@richirrim',
-  versionControl: { timeUsing: '6 meses', version: 'Git & GitHub', status: 'Aprendiendo' },
+  versionControl: { name: 'Git & GitHub', status: 'Aprendiendo', timeUsing: '6 meses' },
   languages: [
-    { timeUsing: '1 año', lang: 'JavaScript' }, 
-    { timeUsing: '2 años', lang: 'HTML' }, 
-    { timeUsing: '2 años', lang: 'CSS' }
+    { name: 'JavaScript', timeUsing: '1 año' }, 
+    { name: 'HTML', timeUsing: '2 años' }, 
+    { name: 'CSS', timeUsing: '2 años' }
   ],
   framewokrs: [
-    { timeUsing: '2 meses', lang: 'Vuejs', status: 'Aprendiendo' }, 
-    { timeUsing: '1 mes', lang: 'Express', status: 'Aprendiendo' }, 
+    { name: 'Vuejs', timeUsing: '2 meses', status: 'Aprendiendo' }, 
+    { name: 'Express', timeUsing: '1 mes' status: 'Aprendiendo' }, 
   ].
   design: [
-    { timeUsing: '1 año', tool: 'Photoshop', status: 'Pro' }, 
-    { timeUsing: '6 meses', tool: 'Adobe XD', status: 'Aprendiendo' }, 
+    { name: 'Photoshop', status: 'Pro', timeUsing: '1 año' }, 
+    { name: 'Adobe XD', status: 'Aprendiendo', timeUsing: '6 meses' }, 
   ].
   hobbies: ['Hacer streams en Twitch', 'Crear contenido de programación', 'Dance', 'Diseñar'],
   education: [
