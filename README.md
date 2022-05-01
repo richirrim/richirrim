@@ -1,4 +1,33 @@
-### Hi there 👋
+<h1 align="center"><a href="https://dev.to/richirrim" target="_blank">🛦Ricardo Ortega (@richirrim)</a></h1>
+<h3 align="center">Ingeniero Informático 🙾 FrontEnd Developer 🙾 Content Creator 🙾 Gamer</h3>
+
+```js
+import Ricardo from '../earth/Ricardo'
+
+const Ricardo.profile = {
+  username: '@richirrim',
+  versionControl: { timeUsing: '6 meses', version: 'Git & GitHub', status: 'Aprendiendo' },
+  languages: [
+    { timeUsing: '1 año', lang: 'JavaScript' }, 
+    { timeUsing: '2 años', lang: 'HTML' }, 
+    { timeUsing: '2 años', lang: 'CSS' }
+  ],
+  framewokrs: [
+    { timeUsing: '2 meses', lang: 'Vuejs', status: 'Aprendiendo' }, 
+    { timeUsing: '1 mes', lang: 'Express', status: 'Aprendiendo' }, 
+  ].
+  design: [
+    { timeUsing: '1 año', tool: 'Photoshop', status: 'Pro' }, 
+    { timeUsing: '6 meses', tool: 'Adobe XD', status: 'Aprendiendo' }, 
+  ].
+  hobbies: ['Hacer streams en Twitch', 'Crear contenido de programación', 'Dance', 'Diseñar']
+  education: [
+    { institute: 'Ingeniería Informática', academicDiscipline: 'Instituto tecnológico de Campeche', startDate: 'Ene. 2014', finishDate: 'Jul. 2019' }, 
+    { institute: 'Carrera Técnica en Informática', academicDiscipline: 'Conalep Campeche', startDate: 'Ene. 2011', finishDate: 'Jul. 2013' }, 
+    onlineEducationPlatforms: ['EDteam', 'Udemy', 'Bootcamp LaunchX', 'escuela.vue']
+  ].
+};
+```
 
 Soy egresado de la carrera de Ing. Informática 🎉 . Durante la carrera despertó en mí una enorme curiosidad por el Desarrollo Web, en especial por el Desarrollo Frontend, y desde ese día nunca he parado, todos los días descubro algo nuevo y eso me fascina. Nunca me limite a un salón de clases para aprender cosas o a un maestro.
 
