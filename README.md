@@ -20,12 +20,12 @@ const Ricardo.profile = {
     { timeUsing: '1 año', tool: 'Photoshop', status: 'Pro' }, 
     { timeUsing: '6 meses', tool: 'Adobe XD', status: 'Aprendiendo' }, 
   ].
-  hobbies: ['Hacer streams en Twitch', 'Crear contenido de programación', 'Dance', 'Diseñar']
+  hobbies: ['Hacer streams en Twitch', 'Crear contenido de programación', 'Dance', 'Diseñar'],
   education: [
     { institute: 'Ingeniería Informática', academicDiscipline: 'Instituto tecnológico de Campeche', startDate: 'Ene. 2014', finishDate: 'Jul. 2019' }, 
     { institute: 'Carrera Técnica en Informática', academicDiscipline: 'Conalep Campeche', startDate: 'Ene. 2011', finishDate: 'Jul. 2013' }, 
-    onlineEducationPlatforms: ['EDteam', 'Udemy', 'Bootcamp LaunchX', 'escuela.vue']
   ].
+  onlineEducationPlatforms: ['EDteam', 'Udemy', 'Bootcamp LaunchX', 'escuela.vue']
 };
 ```
 
