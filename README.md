@@ -41,12 +41,17 @@ Actualmente, estoy en el programa de LaunchX by #Innovaccionvirtual #microsoft. 
 - [🐦Twitter: @ryszardriich](https://twitter.com/ryszardriich)
 - [🔵Facebook: @richirrim](https://www.facebook.com/richirrim)
 - [🔵Dev.to: @richirrim](https://dev.to/richirrim)
+- [LaunchX - Blog: @richirrim](https://github.com/richirrim/my_launchx_blog)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richirrim&layout=compact&theme=radical)
 
 
 <div>
+  <a href="https://github.com/richirrim/playbook" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=playbook&theme=radical" />
+  </a>
+  
   <a href="https://github.com/richirrim/pokedex-website" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=pokedex-website&theme=radical" />
   </a>
