@@ -6,26 +6,27 @@ import Ricardo from '../earth/Ricardo'
 
 const Ricardo.profile = {
   username: '@richirrim',
-  versionControl: { name: 'Git & GitHub', status: 'Aprendiendo', timeUsing: '6 meses' },
+  versionControl: { name: 'Git & GitHub', timeUsing: '5 meses', status: 'Aprendiendo' },
+  test: { name: 'Jest', timeUsing: '1 mes', status: 'Aprendiendo'}
   languages: [
     { name: 'JavaScript', timeUsing: '1 año' }, 
     { name: 'HTML', timeUsing: '2 años' }, 
     { name: 'CSS', timeUsing: '2 años' }
   ],
   framewokrs: [
-    { name: 'Vuejs', timeUsing: '2 meses', status: 'Aprendiendo' }, 
-    { name: 'Express', timeUsing: '1 mes', status: 'Aprendiendo' }, 
+    { name: 'Vuejs', timeUsing: '1 mes', status: 'Aprendiendo' }, 
+    { name: 'Express', timeUsing: '2 semanas', status: 'Aprendiendo' }, 
   ],
   design: [
-    { name: 'Photoshop', status: 'Pro', timeUsing: '1 año' }, 
-    { name: 'Adobe XD', status: 'Aprendiendo', timeUsing: '6 meses' }, 
+    { name: 'Photoshop', timeUsing: '1 año', status: ''}, 
+    { name: 'Adobe XD', timeUsing: '5 meses', status: 'Aprendiendo' }, 
   ],
   hobbies: ['Hacer streams en Twitch', 'Crear contenido de programación', 'Dance', 'Diseñar', 'Videojuegos'],
   education: [
     { institute: 'Ingeniería Informática', academicDiscipline: 'Instituto tecnológico de Campeche', startDate: 'Ene. 2014', finishDate: 'Jul. 2019' }, 
     { institute: 'Carrera Técnica en Informática', academicDiscipline: 'Conalep Campeche', startDate: 'Ene. 2011', finishDate: 'Jul. 2013' }, 
   ],
-  onlineEducationPlatforms: ['EDteam', 'Udemy', 'Bootcamp LaunchX', 'escuela.vue']
+  onlineEducationPlatforms: ['EDteam', 'Udemy', 'Innovaccion Virtual', 'escuela.vue']
 }
 ```
 
