@@ -63,9 +63,22 @@ Actualmente, estoy en el programa de LaunchX by #Innovaccionvirtual #microsoft. 
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=clone-edcamp&theme=radical" />
   </a>
   
+  <a href="https://github.com/richirrim/pasteleria-double-l" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=pasteleria-double-l&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/richirrim/code_challenge" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=code_challenge&theme=radical" />
+  </a>
+  
+   <a href="https://github.com/richirrim/fizzbuzz" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=fizzbuzz&theme=radical" />
+  </a>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=richirrim&username=richirrim&repo=pasteleria-double-l&theme=radical)](https://github.com/richirrim/pasteleria-double-l)
+
+
+
 
 <!--
 **richirrim/richirrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
