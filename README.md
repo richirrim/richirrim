@@ -41,7 +41,7 @@ Actualmente, estoy en el programa de LaunchX by #Innovaccionvirtual #microsoft. 
 - [🐦Twitter: @ryszardriich](https://twitter.com/ryszardriich)
 - [🔵Facebook: @richirrim](https://www.facebook.com/richirrim)
 - [🔵Dev.to: @richirrim](https://dev.to/richirrim)
-- [LaunchX - Blog: @richirrim](https://github.com/richirrim/my_launchx_blog)
+- [LaunchX - Blog: @richirrim](https://richirrim.github.io/my_launchx_blog/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richirrim&layout=compact&theme=radical)
