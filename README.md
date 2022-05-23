@@ -6,19 +6,19 @@ import Ricardo from '../earth/Ricardo'
 
 const Ricardo.profile = {
   username: '@richirrim',
-  versionControl: { name: 'Git & GitHub', timeUsing: '5 meses', status: 'Aprendiendo' },
-  test: { name: 'Jest', timeUsing: '1 mes', status: 'Aprendiendo'}
-  languages: [
-    { name: 'JavaScript', timeUsing: '1 año' }, 
-    { name: 'HTML', timeUsing: '2 años' }, 
-    { name: 'CSS', timeUsing: '2 años' }
+  versionControl: 'Git & GitHub',
+  test: { name: 'Jest', status: 'Aprendiendo'},
+  languages: [ 
+    'JavaScript/ES6', 
+    'CSS/SASS', 
+    'HTML' 
   ],
   framewokrs: [
     { name: 'Vuejs', timeUsing: '1 mes', status: 'Aprendiendo' }, 
-    { name: 'Express', timeUsing: '2 semanas', status: 'Aprendiendo' }, 
+    { name: 'Express', status: 'Aprendiendo' }, 
   ],
   design: [
-    { name: 'Photoshop', timeUsing: '1 año', status: ''}, 
+    'Photoshop'
     { name: 'Adobe XD', timeUsing: '5 meses', status: 'Aprendiendo' }, 
   ],
   hobbies: ['Hacer streams en Twitch', 'Crear contenido de programación', 'Dance', 'Diseñar', 'Videojuegos'],
@@ -34,7 +34,7 @@ Soy egresado de la carrera de Ing. Informática 🎉 . Durante la carrera desp
 
 Algo que también disfruto mucho y que me hace sentir increíble es compartir mi conocimiento con la comunidad como si fuera una charla de amigos.
 
-Actualmente, estoy en el programa de LaunchX by #Innovaccionvirtual #microsoft. Después de unas 6 semanas intensas y llenas de mucho aprendizaje, diversión y estrés hoy 25/mar/2022 finaliza la Mission Frontend y continuo con la Mission Backend.
+También, potencie y pulí más mis habilidades, participado el Bootcamp LaunchX by Innovaccion Virtual y potenciado por Microsoft. Lo último que hice fue participar de forma remota en el Hackathon "Hack The Ocean by Innovaccion Virtual".
 
 📫 How to reach me:
 - [📷Intagram: @richirrim](https://www.instagram.com/richirrim/)
