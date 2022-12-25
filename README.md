@@ -14,8 +14,8 @@ const Ricardo.profile = {
     'HTML' 
   ],
   framewokrs: [
-    { name: 'Vuejs', timeUsing: '1 mes', status: 'Aprendiendo' }, 
-    { name: 'Express', status: 'Aprendiendo' }, 
+    { name: 'React js', timeUsing: '1 mes', status: 'Aprendiendo' }, 
+    { name: 'Angular', status: 'Aprendiendo' }, 
   ],
   design: [
     'Photoshop'
