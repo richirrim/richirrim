@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://dev.to/richirrim" target="_blank">🛦Ricardo Ortega</a></h1>
+<h1 align="center"><a href="https://dev.to/richirrim" target="_blank">🍣🍣Ricardo Ortega</a></h1>
 <h3 align="center">Ingeniero Informático 🙾 FrontEnd Developer 🙾 Content Creator 🙾 Gamer</h3>
 
 ```js
@@ -26,7 +26,12 @@ const Ricardo.profile = {
 }
 ```
 
+Actualmente trabajo como Jr Web Developer en Grupo Coppel con 2 años de experiencia, stack Angular15+ y PHP 8. Egresado de la carrera de Ing. Informática | Frontend developer lover | Nunca me limite un salón de clases para aprender. 
 
+- Participé en el Bootcamp LaunchX auspiciado por Innovacción Virtual.
+- También formé parte del Hackathon "Hack The Ocean by Innovacción Virtual", abordando la problemática de la conservación marina.
+- Sigo mi aprendizaje mediante cursos en plataformas como EdTeam, Platzi, Udemy, etc., y desarrollando proyectos personales que podrías encontrar mi cuenta de github @richirrim.
+- 
 📫 How to reach me:
 - [🔵Dev.to: @richirrim](https://dev.to/richirrim)
 
