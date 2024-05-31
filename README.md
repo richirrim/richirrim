@@ -26,18 +26,9 @@ const Ricardo.profile = {
 }
 ```
 
-Soy egresado de la carrera de Ing. Informática 🎉 . Durante la carrera despertó en mí una enorme curiosidad por el Desarrollo Web, en especial por el Desarrollo Frontend, y desde ese día nunca he parado, todos los días descubro algo nuevo y eso me fascina. Nunca me limite a un salón de clases para aprender cosas o a un maestro.
-
-Algo que también disfruto mucho y que me hace sentir increíble es compartir mi conocimiento con la comunidad como si fuera una charla de amigos.
-
-También, potencie y pulí más mis habilidades, participado el Bootcamp LaunchX by Innovaccion Virtual y potenciado por Microsoft. Lo último que hice fue participar de forma remota en el Hackathon "Hack The Ocean by Innovaccion Virtual".
 
 📫 How to reach me:
-- [📷Intagram: @richirrim](https://www.instagram.com/richirrim/)
-- [🐦Twitter: @ryszardriich](https://twitter.com/ryszardriich)
-- [🔵Facebook: @richirrim](https://www.facebook.com/richirrim)
 - [🔵Dev.to: @richirrim](https://dev.to/richirrim)
-- [LaunchX - Blog: @richirrim](https://richirrim.github.io/my_launchx_blog/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richirrim&layout=compact&theme=radical)
