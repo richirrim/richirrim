@@ -7,26 +7,22 @@ import Ricardo from '../earth/Ricardo'
 const Ricardo.profile = {
   username: '@richirrim',
   versionControl: 'Git & GitHub',
-  test: { name: 'Jest', status: 'Aprendiendo'},
+  test: {},
   languages: [ 
-    'JavaScript/ES6', 
+    'JavaScript/ES6 y TypeScript',
     'CSS/SASS', 
     'HTML' 
   ],
   framewokrs: [
-    { name: 'React js', timeUsing: '1 mes', status: 'Aprendiendo' }, 
-    { name: 'Angular', status: 'Aprendiendo' }, 
+    { name: 'Angular v15' }, 
   ],
-  design: [
-    'Photoshop'
-    { name: 'Adobe XD', timeUsing: '5 meses', status: 'Aprendiendo' }, 
-  ],
-  hobbies: ['Hacer streams en Twitch', 'Crear contenido de programación', 'Dance', 'Diseñar', 'Videojuegos'],
+  design: [],
+  hobbies: ['Crear contenido de programación', 'Dance', 'Diseñar', 'Videojuegos'],
   education: [
     { institute: 'Ingeniería Informática', academicDiscipline: 'Instituto tecnológico de Campeche', startDate: 'Ene. 2014', finishDate: 'Jul. 2019' }, 
     { institute: 'Carrera Técnica en Informática', academicDiscipline: 'Conalep Campeche', startDate: 'Ene. 2011', finishDate: 'Jul. 2013' }, 
   ],
-  onlineEducationPlatforms: ['EDteam', 'Udemy', 'Innovaccion Virtual', 'escuela.vue']
+  onlineEducationPlatforms: ['Codely', 'EDteam', 'Udemy', 'Innovaccion Virtual']
 }
 ```
 
