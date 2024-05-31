@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://dev.to/richirrim" target="_blank">🛦Ricardo Ortega (@richirrim)</a></h1>
+<h1 align="center"><a href="https://dev.to/richirrim" target="_blank">🛦Ricardo Ortega</a></h1>
 <h3 align="center">Ingeniero Informático 🙾 FrontEnd Developer 🙾 Content Creator 🙾 Gamer</h3>
 
 ```js
