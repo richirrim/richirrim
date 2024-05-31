@@ -5,8 +5,7 @@
 import Ricardo from '../earth/Ricardo'
 
 const Ricardo.profile = {
-  username: '@richirrim',
-  versionControl: 'Git & GitHub',
+  versionControl: 'Git & GitHub/GitLab',
   test: {},
   languages: [ 
     'JavaScript/ES6 y TypeScript',
@@ -30,7 +29,7 @@ Actualmente trabajo como Jr Web Developer en Grupo Coppel con 2 años de experie
 
 - Participé en el Bootcamp LaunchX auspiciado por Innovacción Virtual.
 - También formé parte del Hackathon "Hack The Ocean by Innovacción Virtual", abordando la problemática de la conservación marina.
-- Sigo mi aprendizaje mediante cursos en plataformas como EdTeam, Platzi, Udemy, etc., y desarrollando proyectos personales que podrías encontrar mi cuenta de github @richirrim.
+- Sigo mi aprendizaje mediante cursos en plataformas como EdTeam, Codely, Platzi, Udemy y desarrollando proyectos personales que podrías encontrar en la sección de abajo.
 - 
 📫 How to reach me:
 - [🔵Dev.to: @richirrim](https://dev.to/richirrim)
