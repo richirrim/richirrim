@@ -10,7 +10,8 @@ const Ricardo.profile = {
   languages: [ 
     'JavaScript/ES6 y TypeScript',
     'CSS/SASS', 
-    'HTML' 
+    'HTML'
+    'PHP8+'
   ],
   framewokrs: [
     { name: 'Angular v15' }, 
